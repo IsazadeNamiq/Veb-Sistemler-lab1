@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>HOME  |  BASIC HTML WEBSITE</title>
+
+    <style>
+
+    </style>
+
+
+</head>
+
+
+<body style="background-color: lightgreen;">
+
+
+<h1>This is heading 1</h1>
+
+<h2>This is heading 2</h2>
+
+<h3>This is heading 3</h3>
+
+<h4>This is heading 4</h4>
+
+<h5>This is heading 5</h5>
+
+<h6>This is heading 6</h6>
+
+
+<h1 style="background-color:powderblue;">This is a heading with blue background</h1>
+<p style="background-color:tomato;">This is a paragraf with red background.</p>
+<h1 style="font-family":verdana;">This is a heading with "Verdana" font</h1>
+<p style="font-family:courier;">This is a paragraf with "Courier" font.</p>
+<h1 style="font-size":300%;">This is a 300% biger heading</h1>
+<p style="font-size160%;">This is a 160% biger paragraf.</p>
+
+<h1 style="text-align: center;">CENTERED HEADING</h1>
+<p style="text-align: center;">Centered Pharagraf</p>
+
+<h1 style="font-size:55px;" title="I'm a header">This is a big heading with title </h1>
+<p title="I'm a tooltip">This is a paragraph with title.</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>  <br>
+
+<img src="images/w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="images/img_girl.jpg" alt="Girl with a jacket" width="250" height="300">
+
+<p>There is a poem:</p>
+
+<pre>
+   My Bonnie lies over the ocean.
+
+   My Bonnie lies over the sea.
+
+   My Bonnie lies over the ocean.
+   
+   Oh, bring back my Bonnie to me.
+</pre>
+ 
+<p>This text is normal</p>
+<p style="color:red;">This text is red</p>
+<p style="color:blue;">This text is blue</p>
+<p style="font-size:50px;">This text is big</p>
+
+<p>This is some normal text.</p>
+<p><small>This is some smaller text.</small></p>
+
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+
+<p><strong>This text is important!</strong></p>
+<p><em>This text is emphasized.</em></p>
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+ 
+
+
+</body>
+
+
+</html>
